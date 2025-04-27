@@ -1,5 +1,6 @@
 {
   "name": "my-text-editor",
+  "homepage": "https://bhoomi-1404.github.io/my-text-editor",
   "private": true,
   "version": "0.0.0",
   "type": "module",
