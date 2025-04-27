@@ -1,6 +1,6 @@
 import React from "react";
 import ButtonProperties from "./Properties/ButtonProperties";
-import CheckboxProperties from "./Properties/CheckBoxProperties";
+import CheckboxProperties from "./Properties/CheckboxProperties";
 import ImageProperties from "./Properties/ImageProperties";
 export default function PropertiesPanel({
   selectedElement,
